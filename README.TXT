@@ -26,6 +26,10 @@ Tell me what you need.
 
 UPDATES:
 --------
+2016-08
+
+Nifi and Legend of Link games working.
+
 2014-08:
 mapper5 update.
 
